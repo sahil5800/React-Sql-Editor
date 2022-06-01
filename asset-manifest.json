@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-Sql-Editor/static/css/main.9a2ccc1a.css",
+    "main.js": "/React-Sql-Editor/static/js/main.afcc40a1.js",
+    "static/js/787.377507dd.chunk.js": "/React-Sql-Editor/static/js/787.377507dd.chunk.js",
+    "static/media/orders.csv": "/React-Sql-Editor/static/media/orders.1c45f13946325540399e.csv",
+    "static/media/order_details.csv": "/React-Sql-Editor/static/media/order_details.6abd27f100431dba9a8e.csv",
+    "static/media/customers.csv": "/React-Sql-Editor/static/media/customers.14f873269513f6bb2b16.csv",
+    "static/media/employees.csv": "/React-Sql-Editor/static/media/employees.7706c63141949f0876b0.csv",
+    "static/media/products.csv": "/React-Sql-Editor/static/media/products.4534b86a7b83e47d51ba.csv",
+    "static/media/suppliers.csv": "/React-Sql-Editor/static/media/suppliers.e7bd61ded65773918b0d.csv",
+    "static/media/categories.csv": "/React-Sql-Editor/static/media/categories.671185e9d14535df2938.csv",
+    "static/media/territories.csv": "/React-Sql-Editor/static/media/territories.aa25311f821f559423da.csv",
+    "index.html": "/React-Sql-Editor/index.html",
+    "static/media/employee_territories.csv": "/React-Sql-Editor/static/media/employee_territories.218bd7841c2af99da7a2.csv",
+    "static/media/shippers.csv": "/React-Sql-Editor/static/media/shippers.744c7916bd55d0bb885d.csv",
+    "static/media/regions.csv": "/React-Sql-Editor/static/media/regions.b3d70c8bf518bbe3e55a.csv",
+    "main.9a2ccc1a.css.map": "/React-Sql-Editor/static/css/main.9a2ccc1a.css.map",
+    "main.afcc40a1.js.map": "/React-Sql-Editor/static/js/main.afcc40a1.js.map",
+    "787.377507dd.chunk.js.map": "/React-Sql-Editor/static/js/787.377507dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a2ccc1a.css",
+    "static/js/main.afcc40a1.js"
+  ]
+}
