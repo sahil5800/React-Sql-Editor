@@ -9,9 +9,9 @@ https://sahil5800.github.io/React-Sql-Editor/
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ## Features
-- Users can get data of any of the predefined SQL queries either by using SQL Editor or Sidebar Menu.\
-- Users can navigate to different pages using pagination.\
-- Users can download the data in CSV Format in just one click.\
+- Users can get data of any of the predefined SQL queries either by using SQL Editor or Sidebar Menu.
+- Users can navigate to different pages using pagination.
+- Users can download the data in CSV Format in just one click.s
 
 ## Predefined Queries:
 - `select * from customers`
