@@ -1,0 +1,148 @@
+body{
+  background-color: #fafafa;
+  text-align: center;
+  margin-top: 0px;
+}
+
+/*----------header------------*/
+
+.header {
+  padding: 10px;
+  text-align: left;
+  background: rgb(90, 77, 106);
+  color: white;
+  font-size: 13px;
+  display: grid;
+  grid-template-columns: 0fr 1fr 0fr;
+}
+
+/*--------editor---------*/
+
+#editor{
+  margin-left: 10%;
+  margin-top: 80px;
+  border:5px solid rgb(90, 77, 106) ;
+  border-radius: 7px;
+
+}
+
+/*---------footer-------*/
+
+#footer{
+  padding: 10px;
+  text-align: center;
+  background: rgb(90, 77, 106);
+  color: white;
+  margin-top: 193px;
+}
+.link{
+  color: #f1f1f1;
+  text-decoration: none;
+}
+.link:hover{
+  color: #4b0073;
+}
+
+/*------The side navigation menu--------- */
+
+.sidenav {
+  height: 100%; 
+  width: 0;
+  position: fixed; 
+  z-index: 1; 
+  top: 0; 
+  left: 0;
+  background-color: rgb(90, 77, 106);
+  overflow-x: hidden; 
+  padding-top: 60px; 
+  transition: 0.5s; 
+}
+
+/* The navigation menu links */
+.sidenav a {
+  padding: 8px 8px 15px 29px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #f1f1f1;
+  display: block;
+  transition: 0.3s;
+}
+
+/* When you mouse over the navigation links, change their color */
+.sidenav a:hover {
+  color: #4b0073;
+}
+
+/* Position and style the close button (top right corner) */
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+/* Style page content - use this if you want to push the page content to the right when you open the side navigation */
+#main {
+  transition: margin-left .5s;
+}
+
+/* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+/*----------buttons------------*/
+
+/*--- runquery ----*/
+
+#button{
+  height: 55px;
+  width: 135px;
+  background-color: rgb(90, 77, 106);
+  color: #f1f1f1;
+  border: 0px solid;
+  border-radius: 5px;
+  margin-left: 800px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+#button:hover {
+  background-color: #8300ee;
+}
+
+/*-----download csv---- */
+#buttoncsv{
+  height: 55px;
+  width: 135px;
+  background-color: rgb(90, 77, 106);
+  color: #f1f1f1;
+  border: 0px solid;
+  border-radius: 5px;
+  margin-left: 30px;
+  margin-top: 10px;
+}
+#buttoncsv:hover {
+  background-color: #8300ee;
+}
+
+
+/*-----------logo--------------*/
+
+.logo{
+  height: 76px;
+  padding: 15px 20px;
+  background-color: rgb(90, 77, 106);
+  border-radius: 0px;
+  color: #fff;
+  border: 0px solid #0bd8e2; 
+}
+
+.logo:hover{
+  color: #4b0073;
+}
+
+
+
+
