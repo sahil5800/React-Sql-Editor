@@ -24,3 +24,4 @@ https://sahil5800.github.io/React-Sql-Editor/
 - `select * from shippers`
 - `select * from suppliers`
 - `select * from territories`
+- `select * from employees`
